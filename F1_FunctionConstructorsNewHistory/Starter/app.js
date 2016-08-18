@@ -7,7 +7,7 @@ function Person(firstname, lastname) {
     this.lastname = lastname;
     console.log('This function is invoked');
 
-}
+ }
 
 var john = new Person('John', 'Doe');
 
